@@ -11,4 +11,4 @@
 ---
   **This is the contact us form**
   
-  ![Contact-us-form-image](https://github.com/ManciSee/React-ContactForm-Nodemailer/blob/main/Schermata%202022-04-15%20alle%2016.47.34.png?raw=true)
+  ![Contact-us-form-image](https://github.com/ManciSee/React-ContactForm-Nodemailer/blob/main/Contact%20us%20form.png?raw=true)
